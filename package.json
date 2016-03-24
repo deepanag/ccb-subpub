@@ -1,0 +1,19 @@
+{
+  "name": "ccb-subpub",
+  "version": "1.0.0",
+  "description": "Eventing library for ccb components",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deepanag/ccb-subpub.git"
+  },
+  "author": "Deepa Vaidya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deepanag/ccb-subpub/issues"
+  },
+  "homepage": "https://github.com/deepanag/ccb-subpub#readme"
+}
